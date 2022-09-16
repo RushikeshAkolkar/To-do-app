@@ -1,0 +1,8 @@
+.purple{
+	background: #673ab7
+}
+.navbar{
+	position:fixed;
+	z-index: 1;
+	top:0;
+}
